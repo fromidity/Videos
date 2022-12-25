@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+    
+}
+header{
+    height:60px;
+    background:white;
+    border-bottom:3px solid #ddd;
+}
+
+.section{
+    background:white;
+    margin-bottom:16px;
+}
+
+.titles-pic{
+    background:;
+    display:flex;
+    margin-top:8px;
+}
+
+.circle{
+    margin-left:8px;
+    width:40px;
+    height:40px;
+    background:#ddd;
+    border-radius:50%;
+    border:1px solid black;
+}
+.titles{
+    margin-left:8px;
+}
